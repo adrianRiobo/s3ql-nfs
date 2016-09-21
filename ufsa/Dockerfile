@@ -1,4 +1,4 @@
-FROM nexus.bahia.net:8083/ubuntu:14.04
+FROM ubuntu:14.04
 
 ARG DEBIAN_FRONTEND=noninteractive
 
